@@ -5,10 +5,10 @@
 
 ## Results 
 ### Four major points from analyzing the data based on retiring age, titles, age, and how long the employee has been with the company is as follows:
-####1) There are a lot of employees that are retiring in the next few years
-####2) There are a number of employees that have changed their titles and received promotions through the years
-####3) There are are plenty of older employees who would be candidates for the mentorship program.
-####4) A mentorship is a great solution to have different generations bring their knowledge together and to make a sustainable and growing work force.
+1) There are a lot of employees that are retiring in the next few years
+2) There are a number of employees that have changed their titles and received promotions through the years
+3) There are are plenty of older employees who would be candidates for the mentorship program.
+4) A mentorship is a great solution to have different generations bring their knowledge together and to make a sustainable and growing work force.
 
 ## Summary
 ### How many roles will need the be filled as the “silver tsunami” begins to make an impact? 
