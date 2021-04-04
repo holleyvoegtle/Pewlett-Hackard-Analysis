@@ -3,6 +3,9 @@
 ## Overview of Analysis 
 With the use of SQL, we are to determine the number of retiring employees per title and identify employees who are eligible to participate in a mentorship program. The reason we are doing this is that the company, Pewlett-Hackard has many employees that are approaching retirement in unprecedented numbers. Managers are calling this the “silver tsunami." Once these people are identified, then a program can be set up to mentor younger employees to eventually take their place. Once someone retires, all those years of experience and knowledge will be lost. If they are able to mentor, then the company can continue to grow and lessons that could have been lost, do not have to be repeated. 
 
+Prior to analyzing the data, an ERD was set up to better understand the information of catergories:
+![](https://github.com/holleyvoegtle/Pewlett-Hackard-Analysis/blob/main/EmployeeDB.png)
+
 ## Results 
  Four major points from analyzing the data based on retiring age, titles, age, and how long the employee has been with the company is as follows:
 1) There are a lot of employees that are retiring in the next few years
